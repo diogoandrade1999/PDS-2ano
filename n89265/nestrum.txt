@@ -1,0 +1,52 @@
+
+Alinea a) ----------------------------------
+
+Ref: 101 - TV [nome=Basico, descricao=Canais essenciais, custo=14.5], canais=20
+Ref: 102 - TV [nome=Mix, descricao=Oferta variada de canais, custo=23.0], canais=80
+Ref: 103 - TV [nome=Premium, descricao=Tudo o que possa imaginar. Inclui canais TV cine, custo=45.0], canais=120
+Ref: 104 - Net [nome=Fast, descricao=Para uso domestico, custo=17.0]
+Ref: 105 - Net [nome=Fast++, descricao=Para uso empresarial, custo=38.0]
+Ref: 106 - Voz [nome=Nacional, descricao=Chamadas gratis para todas as redes nacionais, custo=12.0]
+Ref: 107 - Voz [nome=Europa+, descricao=Chamadas gratis na uniao europeia, custo=22.0]
+
+Alinea b) ----------------------------------
+
+Ref: 101 - TV [nome=Basico, descricao=Canais essenciais, custo=14.5], canais=20
+Ref: 102 - TV [nome=Mix, descricao=Oferta variada de canais, custo=23.0], canais=80
+Ref: 103 - TV [nome=Premium, descricao=Tudo o que possa imaginar. Inclui canais TV cine, custo=45.0], canais=120
+Ref: 104 - Net [nome=Fast, descricao=Para uso domestico, custo=17.0]
+Ref: 105 - Net [nome=Fast++, descricao=Para uso empresarial, custo=38.0]
+Ref: 106 - Voz [nome=Nacional, descricao=Chamadas gratis para todas as redes nacionais, custo=12.0]
+Ref: 107 - Voz [nome=Europa+, descricao=Chamadas gratis na uniao europeia, custo=22.0]
+Ref: 110 - Pacote [nome=TV+Net+Voz, descricao=Pacote standard, custo=43.68] com fidelizacao de 12 meses
+	TV [nome=Mix, descricao=Oferta variada de canais, custo=23.0], canais=80
+	Net [nome=Fast, descricao=Para uso domestico, custo=17.0]
+	Voz [nome=Nacional, descricao=Chamadas gratis para todas as redes nacionais, custo=12.0]
+Ref: 111 - Pacote [nome=TV+Voz, descricao=Pacote economico, custo=20.58] com fidelizacao de 12 meses
+	TV [nome=Basico, descricao=Canais essenciais, custo=14.5], canais=20
+	Voz [nome=Nacional+, descricao=Nacionais p/ todas as redes + Europa rede fixa, custo=10.0]
+
+Alinea c) ----------------------------------
+
+Servicos retirados no GestorServicosStandard: 
+	TV [nome=Basico, descricao=Canais essenciais, custo=14.5], canais=20
+	null
+Servicos retirados no GestorServicosMinimo: 
+	ServicoVazio [nome=nao existe, descricao=nao existe, custo=0.0]
+	ServicoVazio [nome=nao existe, descricao=nao existe, custo=0.0]
+Ref: 102 - TV [nome=Mix, descricao=Oferta variada de canais, custo=23.0], canais=80
+Ref: 103 - TV [nome=Premium, descricao=Tudo o que possa imaginar. Inclui canais TV cine, custo=45.0], canais=120
+Ref: 104 - Net [nome=Fast, descricao=Para uso domestico, custo=17.0]
+Ref: 105 - Net [nome=Fast++, descricao=Para uso empresarial, custo=38.0]
+Ref: 106 - Voz [nome=Nacional, descricao=Chamadas gratis para todas as redes nacionais, custo=12.0]
+Ref: 107 - Voz [nome=Europa+, descricao=Chamadas gratis na uniao europeia, custo=22.0]
+Ref: 110 - Pacote [nome=TV+Net+Voz, descricao=Pacote standard, custo=43.68] com fidelizacao de 12 meses
+	TV [nome=Mix, descricao=Oferta variada de canais, custo=23.0], canais=80
+	Net [nome=Fast, descricao=Para uso domestico, custo=17.0]
+	Voz [nome=Nacional, descricao=Chamadas gratis para todas as redes nacionais, custo=12.0]
+Ref: 111 - Pacote [nome=TV+Voz, descricao=Pacote economico, custo=20.58] com fidelizacao de 12 meses
+	TV [nome=Basico, descricao=Canais essenciais, custo=14.5], canais=20
+	Voz [nome=Nacional+, descricao=Nacionais p/ todas as redes + Europa rede fixa, custo=10.0]
+
+Alinea d) ----------------------------------
+
